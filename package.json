@@ -1,5 +1,5 @@
 {
-  "name": "@writegap/wgmd-style",
+  "name": "wgmd-style",
   "version": "1.0.0",
   "description": "Writegap's Markdown Render Style (CSS)",
   "main": "light.css",
