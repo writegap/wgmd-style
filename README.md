@@ -9,16 +9,17 @@ Install the package
 
 ```
     # npm
-    npm install @writegap/wgmd-style
+    npm install wgmd-style
 
     # yarn
-    yarn add @writegap/wgmd-style
+    yarn add wgmd-style
 ```
 
 Import the css
 
 ```js
-import "@writegap/wgmd-style";
+// import the style
+import "wgmd-style";
 
 export default function Component() {}
 ```
