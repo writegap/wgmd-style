@@ -1,6 +1,6 @@
 {
   "name": "wgmd-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Writegap's Markdown Render Style (CSS)",
   "main": "light.css",
   "repository": "https://github.com/writegap/wgmd-style.git",
